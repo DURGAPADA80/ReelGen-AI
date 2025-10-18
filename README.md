@@ -21,13 +21,13 @@ Upload → Generate → Watch your AI reel come to life! 🤖🎧
 
 |                        View 1                        |                        View 2                        |                        View 3                        |
 | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| ![Desktop Screenshot-1](./images/desktop-view-1.png) | ![Desktop Screenshot-2](./images/desktop-view-2.png) | ![Desktop Screenshot-3](./images/desktop-view-3.png) |
+| ![Desktop Screenshot-1](./static/images/desktop-view-1.png) | ![Desktop Screenshot-2](./static/images/desktop-view-2.png) | ![Desktop Screenshot-3](./static/images/desktop-view-3.png) |
 
 ### 📱 Mobile View
 
 |                       View 1                       |                       View 2                       |                       View 3                       |
 | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
-| ![Mobile Screenshot-1](./images/mobile-view-1.png) | ![Mobile Screenshot-2](./images/mobile-view-2.png) | ![Mobile Screenshot-3](./images/mobile-view-3.png) |
+| ![Mobile Screenshot-1](./static/images/mobile-view-1.png) | ![Mobile Screenshot-2](./static/images/mobile-view-2.png) | ![Mobile Screenshot-3](./static/images/mobile-view-3.png) |
 
 ---
 
