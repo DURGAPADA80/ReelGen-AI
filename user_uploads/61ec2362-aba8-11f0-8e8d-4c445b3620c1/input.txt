@@ -1,0 +1,9 @@
+file 'man_relax.jpeg'
+duration 2
+file 'man_with _nature.jpeg'
+duration 2
+file 'man_setting_in _nature.jpeg'
+duration 2
+file 'man_meditation.jpeg'
+duration 2
+
